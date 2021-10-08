@@ -1,0 +1,11 @@
+#!/bin/bash
+# AMD GPU Infos by chris1111
+#
+apptitle="AMD GPU Infos"
+version="1.0"
+export TERM=xterm
+
+echo "AMD GPU Infos"
+ioreg -l |grep \"PerformanceStatistics\" | cut -d '{' -f 2 | tr '|' ',' | tr -d '}' | tr ',' '\n'|grep 'Temp\|Fan\|Clock\|Power';
+
+
