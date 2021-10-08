@@ -5,7 +5,7 @@
 
 ![Screen Shot bar](https://user-images.githubusercontent.com/6248794/136599575-b3763d4b-0b59-4d16-a8ec-26dca2d7bfe0.png)
 
-Download ➤ [AMD-GPU-Infos]()
+Download ➤ [AMD-GPU-Infos](https://github.com/chris1111/AMD-GPU-Infos/raw/main/AMD-GPU-Infos.dmg.zip)
 
 
 #### Kexts required:
